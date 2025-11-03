@@ -1,0 +1,11 @@
+######################################################################
+##The develop Log including research, design, impl ideas and tasks
+######################################################################
+
+##Research ideas##
+- currently we made the expression (language) process a kind of GuiPanel stuff so we may easily display the mind activities, while for long term we need to make it a typical module like PAM and deliver the expression results to the environment like action execution part. In the environment, we need to somehow create the corresponding actuators (mouth?) to execute the expression results (a sequence of words?)
+
+##Development tasks##
+
+
+##Bugs Fixing##
