@@ -6,6 +6,12 @@ We built a LIDA software agent embedding with a new description (sub) model, whi
 
 DOI: https://doi.org/10.1609/aaaiss.v2i1.27666
 
+## Usage
+
+**Start to run:** `socialAgent/src/myagent/Run.java`
+
+**Main config:** `socialAgent/config/lidaConfig.properties`
+
 ## LIDA and its architecture
 The LIDA model (Learning Intelligent Decision Agent) (Franklin et al., 2016) hypothesizes and predicts how minds work. It provides an architecture integrating multiple cog-nitive modules, and each of which has different cognitive representations and processes. We argue that these cogni-tive components may naturally serve as the source of the mind content an agent shares out.
 
@@ -24,4 +30,4 @@ In detail, we implemented the describing contents and behaviors among different 
 
 Figure 2: The snapshots of the LIDA agent’s inner modules: (a) Percepts of the Current Situational Model, (b) Attention coalitions in Global Workspace, and (c) Schemes in Procedural Memory 
 
-## Usage
+
