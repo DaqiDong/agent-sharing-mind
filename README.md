@@ -4,7 +4,7 @@ I enable an autonomous agent sharing its artificial mind to its audiences like h
 
 I built a LIDA software agent embedding with a new description (sub) model, which enables the agent describing its conscious contents. Through this description, the agent’s mind is more observable so we can understand the agent’s entity, behaviors and intelligence directly. 
 
-DOI: https://doi.org/10.1609/aaaiss.v2i1.27666
+**Full paper:** https://doi.org/10.1609/aaaiss.v2i1.27666
 
 ## Usage
 
