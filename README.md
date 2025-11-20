@@ -15,9 +15,9 @@ I built a LIDA software agent embedding with a new description (sub) model, whic
 ## Agent's mind and behaviors
 Built a lifelike autonomous agent to share its artificial mind driven by a cognitive model (LIDA)
 - The agent describes its conscious content to help explain its behaviors
-- We (humans) can infer both what the agent’s mind is and how it works from its consciousness, which contribute in Human-Robot-Interaction, AI Safety, etc.
-- 
-
+- We (humans) can infer both what (who) the agent is and how its mind works from its consciousness, which contribute in Human-Robot-Interaction, AI Safety, etc.
+  
+![Knowing the agent](assets/presentation_observableMind_2805_v4_agent_B.jpg)
 
 
 ## LIDA and its architecture
