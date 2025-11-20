@@ -12,6 +12,14 @@ I built a LIDA software agent embedding with a new description (sub) model, whic
 
 **Main config:** `socialAgent/config/lidaConfig.properties`
 
+## Agent's mind and behaviors
+Built a lifelike autonomous agent to share its artificial mind driven by a cognitive model (LIDA)
+- The agent describes its conscious content to help explain its behaviors
+- We (humans) can infer both what the agent’s mind is and how it works from its consciousness, which contribute in Human-Robot-Interaction, AI Safety, etc.
+- 
+
+
+
 ## LIDA and its architecture
 The LIDA model (Learning Intelligent Decision Agent) (Franklin et al., 2016) hypothesizes and predicts how minds work. It provides an architecture integrating multiple cog-nitive modules, and each of which has different cognitive representations and processes.
 
